@@ -1,0 +1,5 @@
+.dmda-api.code-workspace
+.archive
+.archive/
+service/service
+service/dmda-api
